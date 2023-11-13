@@ -19,5 +19,4 @@ class ComparisonService {
     }
   }
 }
-
 module.exports = { ComparisonService };
